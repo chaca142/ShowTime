@@ -1,7 +1,7 @@
 name: ShowTime
 main: chaca142\Main
-version: 1.0.0
-api: 3.7.0
+version: 2.0.0
+api: 3.11.6
 description: "時間を表示"
 author: chaca142
 website: lily112.html.xdomain.com
